@@ -1,0 +1,116 @@
+body{
+	margin-left: 15px;
+	margin-right: 16px;
+	margin-top: 15px;
+	background-color: #DCDCDC;
+	}	
+
+
+	.navigation {
+		background-color: white;
+		font-size: 18px;
+		align-items: center;
+		height: 90px;
+		margin: 0 auto;
+		justify-content: space-between;
+		flex-direction: row;
+		display: flex;
+		width: 1318px;	
+	
+	}
+	.navigation img{
+		padding: 15px;
+	}
+	.navigation a{		
+		text-decoration: none;
+		color: 	black;
+		font-family: Helvetica;
+		padding: 15px;
+		font-size: 12px;
+		border-radius: 5px;
+	}
+	.Room{
+		color: #BEBEBE;
+	}
+	
+	a:hover {
+    background: #FF8C00;  
+    color: black; 
+   }
+ 
+	.data{
+		rad
+	}
+	.form{
+		position: relative;
+		display: flex;
+		
+		padding-top: 10px;
+		flex-direction: row;
+		align-items: center;
+		margin: 0 auto;
+		height: 500px;
+		width: 1318px;
+	}
+	.contact{
+		background-color: #B03060;
+		width: 659px;
+		height: 510px;
+	}
+	
+	.form h3{
+		color: white;
+	}
+	.conteiner{
+		width: 659px;
+		height: 510px;
+	}
+	form {
+	margin-left: 300px;
+	margin-top: 30px;
+	}
+	.Date{
+		border: 2px solid white;
+		border-radius: 2.5px;
+		width: 200px;
+		height: 30px;
+		padding-left: 40px;
+		background-repeat: no-repeat;
+		background-position: right center;
+		color: white;
+	}
+	.login!{
+		border: 2px solid white;
+		border-radius: 2.5px;
+		width: 100px;
+		color: white;
+		height: 30px;
+		
+	}
+	.login{
+		border: 2px solid 	#FFB6C1;
+		border-radius: 2.5px;
+		width: 200px;
+		height: 30px;
+		
+		color: white;
+	}
+	.conteiner!{
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		margin: 0 auto;
+		height: 50px;
+		width: 970px;
+		align-items: center;
+	}
+	.paragraph{
+		font-family: Helvetica;
+		text-align: center;
+	}
+	
+	.paragraph!{
+		font-family: Helvetica;
+		text-align: center;
+	}
+
